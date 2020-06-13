@@ -1,4 +1,4 @@
-# Reign of the King
+# Reign of the King (C++ Game)
 A simple but complete turn-based game. Randomly generated mosters and weapons, hero experience and level mechanics.
 
 # Download the files and open "DnD\Release\DnD.exe"
